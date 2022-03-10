@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "react-dom";
-import Calendar from "./Calendar";
+import Calendar from "./Basic";
 import "./index.css";
 
 const styles = {

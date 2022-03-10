@@ -8,7 +8,7 @@
     "moment": "2.22.2",
     "moment-mini": "latest",
     "react": "16.3.2",
-    "react-big-calendar": "0.19.2",
+    "react-big-calendar": "0.39.0",
     "react-dom": "16.3.2",
     "react-scripts": "1.1.4"
   },

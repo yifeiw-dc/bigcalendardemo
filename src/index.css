@@ -3,27 +3,20 @@
   grid-template-rows: repeat(24, 40px);
 }
 
-.rbc-day-slot .rbc-event {
-  margin:  0 auto;
-  width:  80%;
+.rbc-day-slot .rbc-background-event {
+  align-items: center;
 
-}
-
-.rbc-day-slot .rbc-event--session {
   background: repeating-linear-gradient(
-  45deg,
-  #606dbc,
-  #606dbc 10px,
-  #465298 10px,
-  #465298 20px
-);
-    position: static;
-
+    45deg,
+    #606dbc,
+    #606dbc 10px,
+    #465298 10px,
+    #465298 20px
+  );
 }
 
-.rbc-day-slot .rbc-event--presentation {
-  background-color: #6ebe4a;
-    margin:  0 auto;
-  width:  100%;
-  
+.rbc-day-slot .rbc-event {
+  align-items: center;
+  background-color: #E1E0FF;
+  color: black;
 }
